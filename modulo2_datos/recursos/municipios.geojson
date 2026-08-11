@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "municipios",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "cod_dane": "44847", "municipio": "Uribia", "lat": 11.71, "lon": -71.98, "viento_ms": 9.1, "poblacion": 175000, "dist_via_km": 3.2 }, "geometry": { "type": "Point", "coordinates": [ -71.98, 11.71 ] } },
+{ "type": "Feature", "properties": { "cod_dane": "44001", "municipio": "Riohacha", "lat": 11.55, "lon": -72.91, "viento_ms": 7.3, "poblacion": 280000, "dist_via_km": 0.5 }, "geometry": { "type": "Point", "coordinates": [ -72.91, 11.55 ] } },
+{ "type": "Feature", "properties": { "cod_dane": "44430", "municipio": "Maicao", "lat": 11.38, "lon": -72.24, "viento_ms": 6.8, "poblacion": 160000, "dist_via_km": 1.1 }, "geometry": { "type": "Point", "coordinates": [ -72.24, 11.38 ] } },
+{ "type": "Feature", "properties": { "cod_dane": "44560", "municipio": "Manaure", "lat": 11.78, "lon": -72.44, "viento_ms": 8.7, "poblacion": 100000, "dist_via_km": 4.8 }, "geometry": { "type": "Point", "coordinates": [ -72.44, 11.78 ] } },
+{ "type": "Feature", "properties": { "cod_dane": "20001", "municipio": "Valledupar", "lat": 10.46, "lon": -73.25, "viento_ms": 5.2, "poblacion": 490000, "dist_via_km": 0.3 }, "geometry": { "type": "Point", "coordinates": [ -73.25, 10.46 ] } },
+{ "type": "Feature", "properties": { "cod_dane": "20011", "municipio": "Aguachica", "lat": 8.31, "lon": -73.63, "viento_ms": 4.1, "poblacion": 110000, "dist_via_km": 0.9 }, "geometry": { "type": "Point", "coordinates": [ -73.63, 8.31 ] } },
+{ "type": "Feature", "properties": { "cod_dane": "47001", "municipio": "Santa Marta", "lat": 11.24, "lon": -74.2, "viento_ms": 5.9, "poblacion": 515000, "dist_via_km": 0.4 }, "geometry": { "type": "Point", "coordinates": [ -74.2, 11.24 ] } },
+{ "type": "Feature", "properties": { "cod_dane": "08001", "municipio": "Barranquilla", "lat": 10.96, "lon": -74.8, "viento_ms": 6.2, "poblacion": 1230000, "dist_via_km": 0.2 }, "geometry": { "type": "Point", "coordinates": [ -74.8, 10.96 ] } }
+]
+}

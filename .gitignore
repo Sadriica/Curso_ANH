@@ -1,0 +1,26 @@
+# Salidas que los notebooks generan al ejecutarse, en la carpeta del módulo.
+# Los respaldos equivalentes viven en cada modulo*/recursos/ y sí se versionan.
+modulo1_sig/elevacion.tif
+modulo2_datos/municipios.csv
+modulo2_datos/municipios.xlsx
+modulo2_datos/municipios.geojson
+/municipios_shp/
+modulo2_datos/municipios_shp/
+modulo2_datos/malla_h3.parquet
+modulo2_datos/viento.tif
+modulo3_multicriterio/resultado_idoneidad.h3.parquet
+modulo4_taller/resultado_idoneidad.h3.parquet
+
+# Lo mismo, si Jupyter se abre desde la raíz del repositorio.
+/elevacion.tif
+/viento.tif
+/municipios.csv
+/municipios.xlsx
+/municipios.geojson
+/municipios_shp/
+/malla_h3.parquet
+/resultado_idoneidad.h3.parquet
+
+# Jupyter y Python
+.ipynb_checkpoints/
+__pycache__/

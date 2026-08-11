@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "puntos_ciudades",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ciudad": "Riohacha" }, "geometry": { "type": "Point", "coordinates": [ -72.91, 11.55 ] } },
+{ "type": "Feature", "properties": { "ciudad": "Valledupar" }, "geometry": { "type": "Point", "coordinates": [ -73.25, 10.46 ] } },
+{ "type": "Feature", "properties": { "ciudad": "Santa Marta" }, "geometry": { "type": "Point", "coordinates": [ -74.2, 11.24 ] } },
+{ "type": "Feature", "properties": { "ciudad": "Barranquilla" }, "geometry": { "type": "Point", "coordinates": [ -74.8, 10.96 ] } }
+]
+}

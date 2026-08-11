@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "fuente_viento_9377",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::9377" } },
+"features": [
+{ "type": "Feature", "properties": { "sitio": "Uribia", "viento_ms": 9.1, "dist_via_km": 3.2 }, "geometry": { "type": "Point", "coordinates": [ 5111114.492345305159688, 2852218.614106324501336 ] } },
+{ "type": "Feature", "properties": { "sitio": "Riohacha", "viento_ms": 7.3, "dist_via_km": 0.5 }, "geometry": { "type": "Point", "coordinates": [ 5009809.345308911986649, 2834334.458091439213604 ] } },
+{ "type": "Feature", "properties": { "sitio": "Maicao", "viento_ms": 6.8, "dist_via_km": 1.1 }, "geometry": { "type": "Point", "coordinates": [ 5082886.237798144109547, 2815651.345703183673322 ] } },
+{ "type": "Feature", "properties": { "sitio": "Manaure", "viento_ms": 8.7, "dist_via_km": 4.8 }, "geometry": { "type": "Point", "coordinates": [ 5060986.560821446590126, 2859815.935685840435326 ] } },
+{ "type": "Feature", "properties": { "sitio": "Valledupar", "viento_ms": 5.2, "dist_via_km": 0.3 }, "geometry": { "type": "Point", "coordinates": [ 4972651.402078212238848, 2713870.092692880891263 ] } },
+{ "type": "Feature", "properties": { "sitio": "Aguachica", "viento_ms": 4.1, "dist_via_km": 0.9 }, "geometry": { "type": "Point", "coordinates": [ 4930654.377973807044327, 2476306.150475311093032 ] } },
+{ "type": "Feature", "properties": { "sitio": "Santa Marta", "viento_ms": 5.9, "dist_via_km": 0.4 }, "geometry": { "type": "Point", "coordinates": [ 4869058.091421669349074, 2800336.188223808072507 ] } },
+{ "type": "Feature", "properties": { "sitio": "Barranquilla", "viento_ms": 6.2, "dist_via_km": 0.2 }, "geometry": { "type": "Point", "coordinates": [ 4803383.108391822315753, 2769708.666464786976576 ] } }
+]
+}
