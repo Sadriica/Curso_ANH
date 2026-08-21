@@ -1,0 +1,76 @@
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis version="3.40.12-Bratislava">
+  <identifier>Munpio</identifier>
+  <parentidentifier></parentidentifier>
+  <language>SPA</language>
+  <type>dataset</type>
+  <title>Munpio</title>
+  <abstract>La Base de Datos Geográfica ET contiene los límites de las entidades territoriales, producto del proceso de deslinde aprobado por el competente, fijados o modificados por estos (Asamblea departamental, Congreso de la República de Colombia) y elevado a normatividad: Ordenanza, Ley o Decreto. Se representan sobre cartografía del Instituto Geográfico Agustín Codazzi - IGAC acorde con la Ley 1447 de 2011 y su Decreto Reglamentario 1170 de 2015. Para los Distritos la definición y modificación de sus límites está estipulado en la Ley 1617 de 2013. Las áreas No Municipalizadas, hacen parte de la división territorial, pero no son entidades territoriales (artículo 285 y 286 de la Constitución Política de Colombia, 1991).
+
+La publicación de los límites de las entidades territoriales y de frontera tienen como fin dar cumplimiento a las Ley 1447 de 2011 en su Articulo 11 sobre Deslindes de Entidades Territoriales y la Ley 1712 de 2014 sobre la Transparencia y del Derecho de Acceso a la Información Pública Nacional.</abstract>
+  <keywords vocabulary="Search keys">
+    <keyword>Líneas Limítrofes de las Entidades Territoriales</keyword>
+    <keyword>Municipios</keyword>
+    <keyword>Areas no municipalizadas</keyword>
+    <keyword>Límite</keyword>
+    <keyword>República de Colombia</keyword>
+    <keyword>Distritos</keyword>
+    <keyword>Línea</keyword>
+    <keyword>Entidades Territoriales</keyword>
+    <keyword>Límites Entidades Territoriales</keyword>
+  </keywords>
+  <keywords vocabulary="gmd:topicCategory">
+    <keyword>Líneas Limítrofes de las Entidades Territoriales</keyword>
+    <keyword>Límite</keyword>
+    <keyword>Línea</keyword>
+    <keyword>Límites Entidades Territoriales</keyword>
+  </keywords>
+  <contact>
+    <contactAddress>
+      <type></type>
+      <address>Carrera 30 # 48 – 51 – Sede Central</address>
+      <city>Bogotá D.C.</city>
+      <administrativearea>Bogotá D.C.</administrativearea>
+      <postalcode>111321</postalcode>
+      <country>CO</country>
+    </contactAddress>
+    <name>IGAC</name>
+    <organization>Instituto Geográfico Agustín Codazzi - IGAC - Subdirección de Geografía</organization>
+    <position></position>
+    <voice>+ 57 1 3694000</voice>
+    <fax></fax>
+    <email>contactenos@igac.gov.co</email>
+    <role></role>
+  </contact>
+  <links/>
+  <history>1. Se procede a digitalizar el límite sobre cartografía oficial IGAC de acuerdo a la descripción contenida en la normativa vigente ( ley, ordenanza o decreto). 2. Se verifica el trazado, utilizando cartografía antigua e imágenes (análogas y/o digitales), para identificar posibles cambios de toponimia. 3. Se revisa Topología y coincidencia de vértices con los puntos de concurso de otros municipios. 4. Se procede a su publicación.</history>
+  <dates>
+    <date type="Created" value="2025-09-26T00:00:00"/>
+    <date type="Published" value="2024-09-30T00:00:00"/>
+  </dates>
+  <fees></fees>
+  <constraints type="Limitations of use">La información de límites de entidades territoriales suministrada por el IGAC, se entrega bajo licencia abierta estándar "Creative Commons CC BY 4.0", la cual describe sus condiciones de uso en el siguiente enlace: https://creativecommons.org/licenses/by/4.0/deed.es. Con esta licencia, el usuario podrá utilizar los datos entregados sin restricción, teniendo en cuentaque deberá dar los créditos de autor al IGAC, y cada vez que sea entregada a terceros deberá indicar si se ha realizado algún cambio a los datos iniciales.Por otro lado, con respecto a los límites de frontera con otros países, estos están siendo objeto de mesas de trabajo interinstitucionales con la Dirección de Soberanía Territorial de la Cancillería Colombiana. Por tal motivo, la información entregada tiene la siguiente restricción: “No es apropiada su aplicación para la ubicación exacta de puntos ni para el cálculo de áreas y distancias”.</constraints>
+  <encoding></encoding>
+  <crs>
+    <spatialrefsys nativeFormat="Wkt">
+      <wkt></wkt>
+      <proj4></proj4>
+      <srsid>0</srsid>
+      <srid>0</srid>
+      <authid></authid>
+      <description></description>
+      <projectionacronym></projectionacronym>
+      <ellipsoidacronym></ellipsoidacronym>
+      <geographicflag>false</geographicflag>
+    </spatialrefsys>
+  </crs>
+  <extent>
+    <spatial dimensions="2" miny="-4.24840499999999999" minz="0" crs="EPSG:4326" maxy="13.53459600000000052" minx="-81.76681499999999403" maxz="0" maxx="-66.67291799999999569"/>
+    <temporal>
+      <period>
+        <start>2024-09-30T05:00:00Z</start>
+        <end></end>
+      </period>
+    </temporal>
+  </extent>
+</qgis>
